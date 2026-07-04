@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 7de6b91359a39d17bf712ffa3714712f_9c1049b7775c11f19641525400d9a7a1
-    ReservedCode1: KHeW5rJPciduLFyccMy5M5eI/Dvd9g9SNPaKbbBWg8cgTFYhGbYQhSvqYbeMaKYcqhxEoWf3itF5LEa2ejW3Wbudc3linIOxCVg1Pkh2NqARPnf9oDQZH5j1fUWR+6lOYauKjpMYiDEUaSsH7bqVYbdIDq4VPv1hWMjj5DcMdkKkKL3DOBMGS9IgS94=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 7de6b91359a39d17bf712ffa3714712f_9c1049b7775c11f19641525400d9a7a1
-    ReservedCode2: KHeW5rJPciduLFyccMy5M5eI/Dvd9g9SNPaKbbBWg8cgTFYhGbYQhSvqYbeMaKYcqhxEoWf3itF5LEa2ejW3Wbudc3linIOxCVg1Pkh2NqARPnf9oDQZH5j1fUWR+6lOYauKjpMYiDEUaSsH7bqVYbdIDq4VPv1hWMjj5DcMdkKkKL3DOBMGS9IgS94=
----
-
 # 六队同盟 · 超级决策议会
 
 > 「Smile and wave, boys.」—「Cowabunga!」—「I love it when a plan comes together.」—「Do you ever look at someone and wonder...」—「We are Groot.」—「Scooby-Dooby-Doo!」
@@ -187,5 +176,4 @@ AIGC:
 > 本Skill由六套源Skill交叉综合生成：
 > 企鹅特工队 · 忍者神龟 · 头脑特工队 · 天龙特攻队 · 银河护卫队 · 神秘社
 > 综合引擎：[花叔](https://x.com/AlchainHust) · 基于 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill)
-*（内容由AI生成，仅供参考）*
 *（内容由AI生成，仅供参考）*
