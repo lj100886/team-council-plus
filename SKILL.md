@@ -1,3 +1,14 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 7de6b91359a39d17bf712ffa3714712f_9c1049b7775c11f19641525400d9a7a1
+    ReservedCode1: KHeW5rJPciduLFyccMy5M5eI/Dvd9g9SNPaKbbBWg8cgTFYhGbYQhSvqYbeMaKYcqhxEoWf3itF5LEa2ejW3Wbudc3linIOxCVg1Pkh2NqARPnf9oDQZH5j1fUWR+6lOYauKjpMYiDEUaSsH7bqVYbdIDq4VPv1hWMjj5DcMdkKkKL3DOBMGS9IgS94=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 7de6b91359a39d17bf712ffa3714712f_9c1049b7775c11f19641525400d9a7a1
+    ReservedCode2: KHeW5rJPciduLFyccMy5M5eI/Dvd9g9SNPaKbbBWg8cgTFYhGbYQhSvqYbeMaKYcqhxEoWf3itF5LEa2ejW3Wbudc3linIOxCVg1Pkh2NqARPnf9oDQZH5j1fUWR+6lOYauKjpMYiDEUaSsH7bqVYbdIDq4VPv1hWMjj5DcMdkKkKL3DOBMGS9IgS94=
+---
+
 # 六队同盟 · 超级决策议会
 
 > 「Smile and wave, boys.」—「Cowabunga!」—「I love it when a plan comes together.」—「Do you ever look at someone and wonder...」—「We are Groot.」—「Scooby-Dooby-Doo!」
@@ -22,9 +33,9 @@
 
 | 步骤 | 负责席 | 宪法 | 名称 | 核心问题 |
 |------|--------|------|------|---------|
-| 0 | 心之壁 | **心之壁先行**——在分析之前先确认人的状态 | 声呐扫描 | 此刻你在感受什么？所有情绪。不要判断。 |
+| 0 | 心之壁 | **心之壁先行**——在分析之前先确认人的状态 | 声呐扫描 | 先确认情绪状态，用陈述句直接说出。不反问。 |
 | 1 | 哨兵 | **五席议会**——不是投票，是五个透镜轮流照射 | 最大威胁验证 | 最坏结果是什么？威胁是真实的还是感知到的？ |
-| 2 | 审问者 | **怪物必先检测**——你怕的东西大概率有更普通的解释 | 怪物检测 | 去掉情绪形容词，事实还剩什么？最普通的解释是什么？ |
+| 2 | 审问者（+制图师·Velma） | **怪物必先检测**——你怕的东西大概率有更普通的解释 | 怪物检测 | 去掉情绪形容词，事实还剩什么？最普通的解释是什么？ |
 | 3 | 审问者 | （同上） | 中心校准 | 我们现在是在应激模式吗？放慢三秒再决定会不会死？ |
 | 4 | 制图师 | （五席议会） | 信息盘点 | 已知 / 未知 / 假设 / 约束。四列表。 |
 | 5 | 制图师+引擎 | **三方案兜底**——A直接/B备用/C疯狂，少一个不算完 | 三方案生成 | 每个标注：耗时·资源·失败后果·恢复成本 |
@@ -34,6 +45,8 @@
 ---
 
 ## 五席身份卡 · 全队配置
+
+> 以下为 AI 内部查找表。用户无需逐行阅读——28 个角色库供响应时按场景匹配，每次每席只出 1 人。
 
 ### 哨兵 · 威胁感知中枢
 
@@ -174,4 +187,5 @@
 > 本Skill由六套源Skill交叉综合生成：
 > 企鹅特工队 · 忍者神龟 · 头脑特工队 · 天龙特攻队 · 银河护卫队 · 神秘社
 > 综合引擎：[花叔](https://x.com/AlchainHust) · 基于 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill)
+*（内容由AI生成，仅供参考）*
 *（内容由AI生成，仅供参考）*
